@@ -2,7 +2,7 @@
 this project base on malaka-thrift,zookeeper or esb(another project)
 for example:
 # Client request:
-          public class Test
+          public class Test{
           public void main(String[] args){
           Map<String, String> in = new HashMap<String, String>();
           in.put("id", "template");
